@@ -4,7 +4,7 @@ import {FaGithub, FaLinkedin} from "react-icons/fa";
 const ContactData = {
   phone: "+91 6379492630",
   email: "vinothkumar03102003@gmail",
-  // address: "Guntur , Andhra Pradesh , India",
+  address: "Thoothukudi 628722.",
   links: [
     {
       url: "https://github.com/VinodhIOT",

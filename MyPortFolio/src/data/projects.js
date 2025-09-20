@@ -9,9 +9,9 @@ const ProjectsData = [
     name: "Portfolio Website",
     image: "./ecom.png",
     icons: [BiLogoReact, BiLogoTailwindCss],
-    description: "This website provides users with all the basic kinds of shopping items.",
-    github: "https://github.com/VijayKumarReddyTalakola/Ecommerce-Demo",
-    demo: "https://vijay-ecommerce.vercel.app",
+    description: "This website showcases my projects, skills, and experience as a frontend developer in an interactive and responsive portfolio.",
+    github: "https://github.com/VinodhIOT/Portfolio.git",
+    demo: "vinothkumar-c-portfolio.vercel.app",
   },
   {
     id: "1",
