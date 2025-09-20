@@ -57,10 +57,10 @@ const SkillsData = [
   //   name: "MySQL",
   //   image: require("../assets/Images/mysql.png"),
   // },
-  // {
-  //   name: "Postman",
-  //   image: require("../assets/Images/postman.png"),
-  // },
+  {
+    name: "Postman",
+    image: require("../assets/Images/postman.png"),
+  },
   {
     name: "VS Code",
     image: require("../assets/Images/vscode.png"),
